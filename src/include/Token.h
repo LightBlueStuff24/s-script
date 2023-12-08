@@ -59,7 +59,7 @@ typedef struct TOKEN_SSCRIPT_STRUCT
     TK_BREAK,         // break
     TK_LOOPEACH,      // loopEach
     TK_UNTIL,         // until
-    TK_FOR,           // until
+    TK_FOR,           // for
   } type;
 } SS_TOKEN; // 
 
